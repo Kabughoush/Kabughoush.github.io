@@ -209,35 +209,5 @@
         }
 
     ]
-
- 
-    
-    
-    }],
-        "Articles": [
-            
-        {
-            "img": "../img/sertifikasi%20kerja%20-%20Halaman%205.jpg",
-            "ket": "Analysis on Buy & Sell Recommendations for SP500",
-            "tags":[
-                "html",
-                "css",
-                "js"
-            ]
-        },
-        
-        
-        {
-            "img": "../img/sertifikat.PNG",
-            "ket": "Entrepreneurship Ecosystem in the Middle East and Northern Africa Region",
-            "tags":[
-                "html",
-                "css",
-                "js"
-            ]
-        }
-
-    ]
-    
     
 }
