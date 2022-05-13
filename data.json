@@ -133,9 +133,9 @@
         }],
         "certificates": [
         {
-            "ket": "Simulating the Effects of Door-In-Door-Out Interventions",
+            
             "img": "../img/Stroke Conference.jpg",
-            "link": "https://www.ahajournals.org/doi/10.1161/str.52.suppl_1.P270",
+            "ket": "Simulating the Effects of Door-In-Door-Out Interventions",
             "tags":[
                 "html",
                 "css",
