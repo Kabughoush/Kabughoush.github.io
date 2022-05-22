@@ -213,8 +213,8 @@
         "Medium Articles": [
         {
             
-            "img": "../img/Stroke Conference.png",
-            "ket": "Simulating the Effects of Door-In-Door-Out Interventions",
+            "img": "../img/Entrepeuner.png",
+            "ket": "Entrepreneurship Ecosystem in the Middle East and Northern Africa Region",
             "tags":[
                 "html",
                 "css",
@@ -222,13 +222,25 @@
             ]
         },
         {
-            "img": "../img/NURJ.jpg",
-            "ket": "Human Trafficking in Global Supply Chains",
+            "img": "../img/SP500.jpg",
+            "ket": "Analysis on Buy & Sell Recommendations for SP500",
             "tags":[
                 "html",
                 "css",
                 "js"
             ]
         },
+        
+            
+        {
+            "img": "../img/Simulation.jpg",
+            "ket": "Simulation in Business",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        }
+            
     
 }
